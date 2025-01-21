@@ -12,6 +12,4 @@ Como você vai resolver esse mistério? As autoridades de Fiftyville pegaram alg
 
 Depois de resolver o mistério, complete cada uma das linhas preenchendo o nome do ladrão, a cidade para a qual o ladrão escapou e o nome do cúmplice do ladrão que os ajudou a escapar da cidade. (Certifique-se de não alterar nenhum texto existente no arquivo ou adicionar outras linhas ao arquivo!)
 
-# como deve se comportar:
 
-![video](image/comodevesecomportar.mp4)
